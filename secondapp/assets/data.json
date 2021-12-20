@@ -1,0 +1,19 @@
+[
+    {
+        "title":"What is a computer",
+        "subtitle":"Computer is a things to calculate and for any other works",
+        "image": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3540&q=80"
+    },
+    {
+
+        "title":"What is Window",
+        "subtitle":"Microsoft Windows, commonly referred to as Windows, is a group of several proprietary graphical operating system families",
+        "image": "https://cdn.pixabay.com/photo/2020/09/26/11/36/laptop-5603790_960_720.jpg"
+    },
+    {
+        
+        "title":"What is Mac OS",
+        "subtitle":"This article is about the current Apple operating system for Mac computers. For the previous operating system up to Mac OS 9",
+        "image": "https://img-16.ccm2.net/gUgZAsW-WLeKvyubfPAmp_Nlb5I=/640x/d0552868316146d5bf549789555e7725/ccm-faq/patrick-ward-z_dLXnQg0JY-unsplash.jpg"
+    }
+]
