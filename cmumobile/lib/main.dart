@@ -81,7 +81,9 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
             icon: Icon(Icons.document_scanner_outlined, size: 30),
             onPressed: () {},
           ),
-          SizedBox(width: 15,),
+          SizedBox(
+            width: 15,
+          ),
           Tab(
             icon: Container(
               child: Image(
