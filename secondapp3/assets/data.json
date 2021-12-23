@@ -1,0 +1,20 @@
+[
+    {
+        "title":"What is a computer",
+        "subtitle":"A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically.",
+        "image":"https://cdn.pixabay.com/photo/2021/12/11/15/06/northern-lights-6862969_960_720.jpg",
+        "detail":"datail1"
+    },
+    {
+        "title":"What is Window",
+        "subtitle":"Microsoft Windows, commonly referred to as Windows, is a group of several proprietary graphical operating system families",
+        "image":"https://cdn.pixabay.com/photo/2020/09/26/11/36/laptop-5603790_960_720.jpg",
+        "detail":"datail2"
+    },
+    {
+        "title":"What is Mac OS",
+        "subtitle":"This article is about the current Apple operating system for Mac computers. For the previous operating system up to Mac OS 9",
+        "image":"https://img-16.ccm2.net/gUgZAsW-WLeKvyubfPAmp_Nlb5I=/640x/d0552868316146d5bf549789555e7725/ccm-faq/patrick-ward-z_dLXnQg0JY-unsplash.jpg",
+        "detail":"datail3"
+    }
+]
